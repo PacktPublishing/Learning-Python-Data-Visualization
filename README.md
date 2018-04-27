@@ -15,13 +15,12 @@ The code bundle for this video course is available at- https://github.com/PacktP
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Set up your own development environment on Windows to create Python applications 
-<LI>Use special Python features to speed up list comprehensions and small functions 
-<LI>Leverage the wide range of pre-made packages on PyPI 
-<LI>Manage different projects with a myriad of dependencies 
-<LI>Use classes and create objects with OOP using Python 
-<LI>Use special Python techniques such as decorators and context managers 
-<LI>Perform data science using scikit-learn, pandas, and matplotlib </LI></UL></DIV>
+<LI>Why Python is used for data analysis and using important packages  
+<LI>Data analysis using Pandas
+<LI>Using different plots and how to apply these plots to different datasets 
+<LI>Improving the visuals and making them look aesthetic 
+<LI>Working with the Geographical data and Seaborn Packages 
+<LI>Applying data visualization on large datasets</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
