@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/learning-python-data-visualization/9781783553334)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1783553332).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Learning Python Data Visualization [Video]
 This is the code repository for [Learning Python Data Visualization [Video]](https://www.packtpub.com/big-data-and-business-intelligence/learning-python-data-visualization-video-0?utm_source=github&utm_medium=repository&utm_campaign=9781785886102), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
